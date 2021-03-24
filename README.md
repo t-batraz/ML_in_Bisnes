@@ -1,3 +1,3 @@
-Данные https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
-Задача бинарной классификации. Предсказать значение поля RainTomorrow
-Для тестирования модели нужно запусить сервер run_server.ipynb и отпрафит запрос из test_request.ipynb
+Р”Р°РЅРЅС‹Рµ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package  
+Р—Р°РґР°С‡Р° Р±РёРЅР°СЂРЅРѕР№ РєР»Р°СЃСЃРёС„РёРєР°С†РёРё. РџСЂРµРґСЃРєР°Р·Р°С‚СЊ Р·РЅР°С‡РµРЅРёРµ РїРѕР»СЏ RainTomorrow  
+Р”Р»СЏ С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЏ РјРѕРґРµР»Рё РЅСѓР¶РЅРѕ Р·Р°РїСѓСЃРёС‚СЊ СЃРµСЂРІРµСЂ run_server.ipynb Рё РѕС‚РїСЂР°С„РёС‚ Р·Р°РїСЂРѕСЃ РёР· test_request.ipynb  
